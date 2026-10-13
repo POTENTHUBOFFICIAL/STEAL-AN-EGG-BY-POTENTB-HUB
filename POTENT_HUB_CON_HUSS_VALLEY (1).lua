@@ -10,6 +10,7 @@ end
 -- 3. Kitten Farm (77813828595591)
 -- 4. Speed Keyboard Escape (118941584817777 / 93411036959889)
 -- 5. One Tap (90568084448279)
+-- 6. Huss Valley (107535308163741)
 -- ============================================================
 
 local playersService = game:GetService("Players")
